@@ -1,17 +1,17 @@
 # 💫 About Me:
-## 👋 Hey there! I'm **Ayush Mishra**
+## 👋 Hi! I'm **Ayush Mishra**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**💻 React & React Native Developer**  
-Crafting sleek, real-world applications that offer a seamless user experience.
+**Full-Stack Web & Mobile Developer Specializing in React & React Native**  
+Building high-quality, responsive applications for web and mobile platforms. I focus on creating seamless user experiences with optimized performance, clean code, and a modern design aesthetic. From front-end interfaces to back-end integration, I bring ideas to life by leveraging the latest technologies, ensuring scalability, and enhancing functionality.
 
 - 🌱 **Currently Building**: Projects in ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white),![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) and ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 - 💼 **Skills**: Full-stack development, API integration, responsive design
-- 🔗 **Connect**: Open to exciting new ideas and collaborations!
+- 🔗 **Let's Connect**: Open to exciting new ideas and collaborations! [Visit my website 🌐](https://am88-portfolio.netlify.app/)
 
 
 ## 🌐 Socials:
