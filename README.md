@@ -11,7 +11,7 @@ Building high-quality, responsive applications for web and mobile platforms. I f
 
 - 🌱 **Currently Building**: Projects in ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white),![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) and ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 - 💼 **Skills**: Full-stack development, API integration, responsive design
-- 🔗 **Let's Connect**: Open to exciting new ideas and collaborations! [Visit my website 🌐](https://am88-portfolio.netlify.app/)
+- 🔗 **Let's Connect**: Open to exciting new ideas and collaborations! [Visit my website 🌐](https://ayushmishra88.netlify.app/)
 
 
 ## 🌐 Socials:
