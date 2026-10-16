@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
-  <img alt="Ayush Mishra, full-stack developer" src="./hero-dark.svg" width="100%">
-</picture>
+<img alt="Ayush Mishra, full-stack developer" src="./hero-light.svg#gh-light-mode-only" width="100%">
+<img alt="Ayush Mishra, full-stack developer" src="./hero-dark.svg#gh-dark-mode-only" width="100%">
 
 <p align="center">
 <a href="https://ayush.shadowcodes.in"><img height="28" src="https://img.shields.io/badge/ayush.shadowcodes.in-1c1b19?style=flat&logo=googlechrome&logoColor=F5E08A" alt="ayush.shadowcodes.in"></a>
@@ -32,14 +29,8 @@
 
 ### Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/rainbow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/rainbow-light.svg">
-  <img alt="3D contribution graph" src="./profile-3d-contrib/rainbow-light.svg" width="100%">
-</picture>
+<img alt="3D contribution graph" src="./profile-3d-contrib/rainbow-light.svg#gh-light-mode-only" width="100%">
+<img alt="3D contribution graph" src="./profile-3d-contrib/rainbow-dark.svg#gh-dark-mode-only" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/breakout-contribution-graph.svg">
-  <img alt="Breakout played on my contribution graph" src="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/breakout-contribution-graph.svg" width="100%">
-</picture>
+<img alt="Breakout played on my contribution graph" src="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/breakout-contribution-graph.svg#gh-light-mode-only" width="100%">
+<img alt="Breakout played on my contribution graph" src="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/breakout-contribution-graph-dark.svg#gh-dark-mode-only" width="100%">
