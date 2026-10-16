@@ -16,16 +16,18 @@ Name:      Ayush Mishra
 Handle:    IMshadow8802
 Role:      Full-stack developer
 Location:  Delhi, India
-Mobile:    React Native · Expo
-Web:       React · Node.js · Express
+Web:       Next.js · React · Vite
+Mobile:    iOS & Android · React Native · Expo
+Backend:   Node.js · Express · REST APIs
+Data:      SQL Server · Postgres · MySQL · MongoDB
+Payments:  Gateway integrations
+Infra:     Linux servers · Domains · Deploys
 Business:  ERP · POS · Inventory systems
-Data:      SQL Server · Postgres · MongoDB
-Desktop:   C# WinForms
 Uptime:    shipping production apps
 ```
 
-<a href="https://ayushmishra88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/ayush-mishra-526823280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://ayush.shadowcodes.in"><img src="https://img.shields.io/badge/ayush.shadowcodes.in-111111?style=for-the-badge&logo=googlechrome&logoColor=F5E08A" alt="Website"></a>
+<a href="https://instagram.com/ayush_m.ishra"><img src="https://img.shields.io/badge/Instagram-@ayush__m.ishra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </td>
 </tr>
@@ -33,23 +35,23 @@ Uptime:    shipping production apps
 
 ### What I build
 
-- **Mobile apps** with React Native and Expo, backed by Node.js and Express APIs
+- **Mobile apps for iOS and Android** with React Native and Expo, from first screen to App Store and Play Store
+- **Web apps** with Next.js, React and Vite
+- **APIs and backends** in Node.js and Express, including payment gateway integrations
+- **Databases** of every flavour: SQL Server stored procedures and reporting, Postgres, MySQL, MongoDB
+- **Servers and deployment**: Linux server management, domains and DNS, hosting and releases
 - **Business software** for manufacturing, jewellery, education and retail: ERP, POS and inventory systems
-- **Data-heavy backends** on SQL Server: stored procedures, views and reporting
-- **Web apps** in React, from UI to deployment
 
 ### Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,vite,remix&perline=10" alt="Frontend and Node stack" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,cs,dotnet,aws,gcp,vercel&perline=10" alt="Data, backend and cloud stack" />
-</p>
-
-<img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WinForms">
+<table>
+<tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,js,tailwind,html,css" alt="Web stack"></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react,apple,androidstudio" alt="Mobile stack"> &nbsp;React Native · Expo</td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend stack"> &nbsp;REST APIs · Payments</td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="Databases"> &nbsp;SQL Server</td></tr>
+<tr><td><b>Servers & cloud</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,aws,gcp,vercel,netlify,githubactions" alt="Servers and cloud"></td></tr>
+<tr><td><b>Desktop</b></td><td><img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Desktop stack"> &nbsp;WinForms</td></tr>
+</table>
 
 ### Contributions
 
