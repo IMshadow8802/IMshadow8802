@@ -54,7 +54,13 @@ Uptime:    shipping production apps
 ### Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/commit-invaders.svg">
+  <img alt="Space Invaders played on my contribution graph" src="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/commit-invaders.svg" width="100%">
 </picture>
