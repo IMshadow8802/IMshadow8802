@@ -32,7 +32,11 @@
 
 ### Contributions
 
-<img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/rainbow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/rainbow-light.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/rainbow-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMshadow8802/IMshadow8802/output/commit-invaders-dark.svg">
