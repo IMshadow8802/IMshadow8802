@@ -1,37 +1,14 @@
-<table>
-<tr>
-<td width="45%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./portrait-light.svg">
-  <img alt="Ayush Mishra, ASCII portrait" src="./portrait-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
+  <img alt="Ayush Mishra, full-stack developer" src="./hero-dark.svg" width="100%">
 </picture>
-</td>
-<td width="55%" valign="top">
 
-```yaml
-ayush@github ~ $ neofetch
--------------------------
-Name:      Ayush Mishra
-Handle:    IMshadow8802
-Role:      Full-stack developer
-Location:  Delhi, India
-Web:       Next.js · React · Vite
-Mobile:    iOS & Android · React Native · Expo
-Backend:   Node.js · Express · REST APIs
-Data:      SQL Server · Postgres · MySQL · MongoDB
-Payments:  Gateway integrations
-Infra:     Linux servers · Domains · Deploys
-Business:  ERP · POS · Inventory systems
-Uptime:    shipping production apps
-```
-
+<p align="center">
 <a href="https://ayush.shadowcodes.in"><img src="https://img.shields.io/badge/ayush.shadowcodes.in-111111?style=for-the-badge&logo=googlechrome&logoColor=F5E08A" alt="Website"></a>
 <a href="https://instagram.com/ayush_m.ishra"><img src="https://img.shields.io/badge/Instagram-@ayush__m.ishra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-</td>
-</tr>
-</table>
 
 ### What I build
 
